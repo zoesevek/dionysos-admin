@@ -3,6 +3,6 @@ class ApplicationController < ActionController::Base
    
     def hello
       
-       render html: "ena DIPO" 
+       render html: "hello world" 
     end
 end
